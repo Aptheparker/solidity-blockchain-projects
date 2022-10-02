@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="README_img/img1.png" alt="symbol" width="300" height="auto" />
+  <img src="README_img/img1.png" alt="symbol" width="500" height="auto" />
   <h1>Blockchain Solidity Study</h1>
   
   <p>
